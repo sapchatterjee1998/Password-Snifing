@@ -1,0 +1,2 @@
+This is the folder having the capture data of two domains
+one of ZERO bank and another is a Pakistan National Library Which i previously found is vulnerable to Sql Injection.
